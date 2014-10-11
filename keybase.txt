@@ -1,0 +1,70 @@
+==================================================================
+https://keybase.io/joshgarner
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://joshuagarner.me
+  * I am joshgarner (https://keybase.io/joshgarner) on keybase.
+  * I have a public key with fingerprint 254B DA53 1E36 5E51 2212  491B 0F6F 1D05 0526 7C35
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "254bda531e365e512212491b0f6f1d0505267c35",
+            "host": "keybase.io",
+            "key_id": "0f6f1d0505267c35",
+            "uid": "d5650a7263a91ed85c9b903f9ee3f000",
+            "username": "joshgarner"
+        },
+        "service": {
+            "hostname": "joshuagarner.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1413051736,
+    "expire_in": 157680000,
+    "prev": "da80fbae5093a02524c531763a84dd9d5d58ccfe4eeddbc2b713843b9befbabf",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v1.1.3
+Comment: https://keybase.io/crypto
+
+yML1AnicO8LLzMDFyJ8vy8qqVmPKePrAt1KGEMvSiGqlpPyUSiWraqXsVDCVlpmX
+nlpUUJSZV6JkpWRkapKUkmhqbJhqbGaaampoZGRoZGJpmGSQZpZmmGJgamBqZGae
+bGyqpKOUkV8M0gE0JimxOFUvMx8oBuTEZ6YARbGoLwVLpJiamRokmhuZGSdaGqam
+WJgmWyZZGhinWaamGqcZGBiAFBanFuUl5qYCVWflF2ekJxblpRYp1eooAcXLMpNT
+Qa4GWY6kpjQRokoPKKKjVFCUX5KfnJ8DlMwoKSmwAuktqSwAKS5PTYqHGhOflJmX
+AvQ8UENZalFxZn6ekpUhUGVySSbIXEMTQ2MDU0NzYzMdpdSKgsyi1PhMkApTczML
+oDsNQNakloF8lGhhkJaUmGpqYGmcaGBkamSSDAw/c6AHLUxSUixTTFNMLZKT01JN
+UlNTUpKSjZLMDY0tTIyTLJNSgdqS0pRAHivMy1eyMgE6MzEdaGRxZnpeYklpUapS
+7aGDMSwMjFwMbKxMoOhj4OIUgEVquQX/H56Fghocyf/Wur9++Pe+3iOTGzUuG/5Y
+x6mltLslvTAvu1672GRr2UoJe56775vk32+vtKv+mbdNt/9G6AkJYTmVfUvyq0L4
+H7xbWCPRGv3C86DVDvYjB5jOeTmVXJo9T++KRHT6ouO3L4aaTsx8HRyUmb7sRYLS
+kq3BvBPmyicayB9fYcYiERXyc8qfy5FOhVdn/bNs3p/JsurF6czbPqynNrTpWFkZ
+Pl9iuu2U49oXh56wclU/KVj50/6SjO81g80ZlqdVG7ydvz8xXxzG8OWrefvGbz9+
+8bQ0911Qk+tzqb34XeuLeq5wQkPal5l1bTKHqrjkmWY1uEyz3frY6o7b1gT/eUs7
+Wo8tebzyyzxnt4wp+79e9ThpwvLqgrDeHZXASDF2+bBGNaNnjL+mbJ7eNM3ux01L
+sVcVWfGpdh+tAz+GzVIKOzBzj7CO4+IWjs23I03MebK+5UrEeAaIs83wDzrS8YJB
+/LDT2Yc586qfyaQw6PFZmPBtuZ3Fwpxi7XNTUSp3tUJEYn72l/67FbO6Ik80vRD+
+dUCRTdfW/4FPZ/zX6fsf5yum9H435i3Z6bPI+tyHui+n5rzYYludk/xfxkF753nj
+fR9yf4f37Yu3vty2p2GzmYa35sxPl2wld85rzn2+zq3RI9rqz6IpNrzyM96svct3
+PcIkz0Ey1EpuX9VMocuCqqpObx+2MC3VO7Xsz/wDqToKv4IBiuyKCg==
+=dzBc
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/joshgarner
+
+==================================================================
